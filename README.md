@@ -1,0 +1,2 @@
+# ierc-miner-js
+Mining
